@@ -1,8 +1,8 @@
 # Site settings
-title: Jekyll-Uno
+title: Lauren McKenna
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://mckennatx.com' 
-baseurl: ''
+url: 'http://mckennatx.github.io' 
+baseurl: '/home/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
