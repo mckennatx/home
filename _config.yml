@@ -1,16 +1,16 @@
 # Site settings
 title: Lauren McKenna
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://mckennatx.github.io' 
-baseurl: '/home/'
+url: 'http://mckennatx' 
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Lauren McKenna'
+  email: mckennaut@gmail.com
+  twitter_username: mckennatx
+  github_username:  mckennatx
+  linkedin_username:  lmckenna
 
 # Build settings
 destination: _site
