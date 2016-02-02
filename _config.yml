@@ -2,7 +2,7 @@
 title: Lauren McKenna
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://mckennatx' 
-baseurl: ''
+baseurl: '/home/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
