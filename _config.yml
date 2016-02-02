@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://mckennatx.com/home' 
-baseurl: '/home/'
+url: 'http://mckennatx.com' 
+baseurl: '/mckennatx/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
