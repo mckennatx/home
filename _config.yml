@@ -1,8 +1,8 @@
 # Site settings
 title: Lauren McKenna
 description: 'coffee drinker | iOS developer | runner | traveler'
-url: 'http://mckennatx.github.io/' 
-baseurl: '/home/'
+#url: 'http://mckennatx.github.io/' 
+#baseurl: '/home/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
